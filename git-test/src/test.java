@@ -3,6 +3,9 @@ public class test {
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
         System.out.println("hello git!!!");
+
+
+        int aaa = 0;
     }
     public void add(){
         int a = 1;
